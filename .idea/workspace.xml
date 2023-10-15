@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcca3ab5-7c68-49ff-8705-47fa07394d20" name="Changes" comment="" />
+    <list default="true" id="dcca3ab5-7c68-49ff-8705-47fa07394d20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnPY" beforeDir="false" afterPath="$PROJECT_DIR$/LearnPY" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnPY/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnPY/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnPY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnPY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnPY/LearnPY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnPY/LearnPY.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_basics/Fundamentals/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_basics/Fundamentals/strings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +45,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/DE/Python/Practice/LearnPY&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DE/Python/Practice/LearnPython&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
