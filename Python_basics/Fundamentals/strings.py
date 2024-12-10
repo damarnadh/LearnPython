@@ -34,3 +34,6 @@ line
 message
 '''
 print(message)
+
+#accessing
+print(message[-14:])
